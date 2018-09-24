@@ -1,0 +1,22 @@
+Instructions
+1. Enter your name and click "Start"
+2. Choose your difficulty. This will 
+determine your starting balance, the 
+amount of customers that will come to  
+your store, and the season in which  
+the gameplay will take place. 
+3. Start off by buying up to three  
+different items by clicking the  
+catalogue and deciding at what price 
+you'll sell them. Once you are
+satisfied, click "Play" to begin a 
+new day!
+4. Each day, you'll see how many people 
+come into your store, what they buy, 
+and how much money you make. There 
+will be 10 days in total, and at the start
+of each day you have a chance to restock 
+items, buy new ones, and change their 
+price. Your total profit at the end of 
+the period will be your score. 
+Play again to beat it!

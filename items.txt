@@ -1,0 +1,58 @@
+Gift Wrapping Paper,giftWP.png,1.00,2.63,15,Adult,Winter
+Tea Kettle,teaK.png,15.50,21.72,3,Senior,Winter
+Snow Boots,snowB.png,35.75,69.99,3, ,Winter
+Mittens,mittens.png,12.60,18.34,5, ,Winter
+Hot Chocolate,hotC.png,1.00,3.45,15, ,Winter
+Chocolate,chocolate.png,0.50,1.10,15, ,All
+Ice Cream,iceC.png,1.25,5.26,15,Child, 
+Snow Shovel,snowS.png,16.80,19.74,3,Adult,Winter
+Socks,socks.png,0.85,4.32,15, ,All
+Tea,tea.png,1.00,2.99,15,Senior,All 
+Turkey,turkey.png,15.40,23.41,5,Adult,Fall
+Hat,hat.png,7.25,10.78,5, ,All 
+Video Games,videoG.png,6.20,36.80,3,Child,All
+Ice,ice.png,0.40,1.05,15, ,Summer
+Chips,chips.png,0.80,3.65, 5, ,All 
+Winter Jacket,winterJ.png,45.90,97.00,3, ,Winter 
+Poinsettia,poinsettia.png,7.30,12.39,5,Adult,Winter
+Candy Cane,candyC.png,0.55,1.10,15,Child,Winter
+Wine,wine.png,9.90,15.75,5,Adult,All
+Toys,toys.png,10.10,20.30,5,Child,All
+Umbrella,umbrella.png,8.70,12.50,5, ,Spring
+Bird Seed,birdS.png,2.25,3.55,15,Senior,Spring
+Seeds,seeds.png,6.95,8.99,15, ,All
+Cucumber,cucumber.png,0.25,1.00,15, ,All
+Balloons,balloons.png,0.45,1.00,15,Child,All
+Allergy Medicine,allergyM.png,7.60,10.10,5, ,Spring
+Toilet Paper,toiletP.png,7.25,11.80,15, ,All
+Milk,milk.png,5.55,7.60,15, ,All
+Eggs,eggs.png,2.60,3.55,15, ,All
+Cookies,cookies.png,1.05,4.69,15,Child,All
+Sunglasses,sunG.png,6.75,13.30,5, ,Summer
+Sandals,sandals.png,16.40,36.99,3, , Summer
+Books,books.png,5.70,15.89,5, ,All
+Ice Skates,iceS.png,45.95,79.20,3,Child,Winter
+Pencil,pencil.png,0.85,2.46,15,Child,Fall
+Craft Supplies,craftS.png,2.40,3.66,15,Child,Fall
+Bubble Bath,bubbleB.png,2.30,3.80,15, ,All
+Mosquito Repellent,mosquitoR.png,5.20,8.90,5, ,Summer
+Swimsuit,swimS.png,13.45,21.57,3, ,Summer
+Binders,binder.png,1.60,3.65,15,Child,Fall
+Crayons,crayons.png,0.40,1.20,15,Child,Fall
+Shampoo,shampoo.png,2.20,7.90,15, ,All
+Birthday Cards,birthdayC.png,0.15,4.50,15, ,All
+Cotton Pads,cottonP.png,0.45,2.00,15,Adult,All
+Phone Case,phoneC.png,0.75,12.55,5, ,All
+Ear Buds,earB.png,3.65,22.50,5,Child,All
+Phone Charger,phoneCH.png,4.85,18.99,5, ,All
+Plushie,plushie.png,6.00,10.80,15,Child,All
+Flowers,flowers.png,4.00,10.00,15, ,Spring
+Dog Treats,dogT.png,2.55,6.40,15, ,All
+Cat Treats,catT.png,2.55,7.23,15, ,All
+Candles,candles.png,0.70,2.40,15,Senior,All
+Flash Light,flashL.png,7.80,13.60,5, ,All
+Soup Cans,soupC.png,0.25,1.25,15, ,All
+Mugs,mugs.png,1.60,6.77,5, ,All
+Jeans,jeans.png,8.95,25.60,3, ,All
+Soft Drinks,softD.png,1.30,2.99,15, ,All
+Water,water.png,0.50,2.20,15, ,All

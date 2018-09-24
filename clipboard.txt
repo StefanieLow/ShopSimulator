@@ -1,0 +1,7 @@
+Starting Balance:
+Amount Spent:
+Amount Earned:
+Net Profit:
+Current Balance:
+
+Items:
