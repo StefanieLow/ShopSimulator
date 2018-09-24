@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------
-#Program Name: ??? - final.py
+#Program Name: ShopSimulator.py
 #Programmers: Stefanie Low and Pearl Kong
 #Date: June 22, 2017
 #Input: Name, difficulty, pricing, and amount of products to buy
